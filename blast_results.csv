@@ -1,0 +1,14 @@
+Query ID,Subject ID,E-value,Bit Score
+STAU1,human,0.0,1178.0
+NRAS,human,4.6e-142,392.0
+HRAS,Q61411_mouse,2.02e-142,393.0
+SLC30A10,human,0.0,1021.0
+CTSV,human,0.0,700.0
+SFRS4,human,0.0,916.0
+GABRG2,human,0.0,972.0
+PCDH1,human,0.0,2162.0
+CAMK1G,human,0.0,992.0
+ADCYAP1,human,0.0,628.0
+PPP2R5D,human,0.0,1235.0
+MLLT3,human,0.0,1210.0
+VN1R3,human,0.0,632.0
